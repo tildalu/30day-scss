@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './MyFirstSass.scss'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h1>this is sass test, it should be blue h1</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
